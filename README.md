@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 # monsters-rolodex
 basic react app from udemy tutorial
-=======
+see hosted app @ [the link here](https://d-j-harris.github.io/monsters-rolodex/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
